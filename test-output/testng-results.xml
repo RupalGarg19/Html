@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-11T10:48:42 IST" name="Default suite" finished-at="2022-05-11T10:48:46 IST" duration-ms="4146">
+    <groups>
+    </groups>
+    <test started-at="2022-05-11T10:48:42 IST" name="Default test" finished-at="2022-05-11T10:48:46 IST" duration-ms="4146">
+      <class name="maven.test.test">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:maven.test.test@31e5415e]" started-at="2022-05-11T10:48:42 IST" name="launchBrowser" finished-at="2022-05-11T10:48:45 IST" duration-ms="3938" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="verifyHomepageTitle()[pri:0, instance:maven.test.test@31e5415e]" started-at="2022-05-11T10:48:46 IST" name="verifyHomepageTitle" finished-at="2022-05-11T10:48:46 IST" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle -->
+        <test-method is-config="true" signature="terminateBrowser()[pri:0, instance:maven.test.test@31e5415e]" started-at="2022-05-11T10:48:46 IST" name="terminateBrowser" finished-at="2022-05-11T10:48:46 IST" duration-ms="105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateBrowser -->
+      </class> <!-- maven.test.test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

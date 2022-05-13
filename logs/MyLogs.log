@@ -8,3 +8,8 @@
 [ERROR] 2022-05-13 11:17:04.581 [main] Log4jDemo - -- This is an error message --
 [WARN ] 2022-05-13 11:17:04.581 [main] Log4jDemo - -- This is a warn message --
 [FATAL] 2022-05-13 11:17:04.586 [main] Log4jDemo - -- This is a fatal message --
+[TRACE] 2022-05-13 11:51:18.594 [main] Log4jDemo - -- This is a trace message --
+[INFO ] 2022-05-13 11:51:18.598 [main] Log4jDemo - -- This is an information message --
+[ERROR] 2022-05-13 11:51:18.598 [main] Log4jDemo - -- This is an error message --
+[WARN ] 2022-05-13 11:51:18.598 [main] Log4jDemo - -- This is a warn message --
+[FATAL] 2022-05-13 11:51:18.599 [main] Log4jDemo - -- This is a fatal message --
